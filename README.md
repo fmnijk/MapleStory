@@ -2,6 +2,9 @@
 TMS122客戶端  
 https://mega.nz/file/HDZCiBLb#fkUS4rDgnJYB6PBer5MH9vhFgAtnT86cJSE4StDasCo  
 
+TMS013 047 113 120 121 122 134 142 152客戶端
+https://mega.nz/folder/2DphxJgD#3dFzrJSR3W4_bnZlNNaD2A
+
 以下為百度秒傳，永不失效  
 含台服以下版本  
 013 047 113 120 121 122 134 142 152  
