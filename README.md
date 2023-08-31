@@ -1,4 +1,4 @@
-# MapleStory Client Download 楓之谷私服客戶端下載(MEGA)
+# MapleStory Client Download 楓之谷官方客戶端下載(MEGA)
 
 TMS122客戶端
 https://mega.nz/file/HDZCiBLb#fkUS4rDgnJYB6PBer5MH9vhFgAtnT86cJSE4StDasCo  
