@@ -15,3 +15,5 @@ MapleStory TMS 121 Client 楓之谷台服V121客戶端
 MapleStory TMS 134 Client 楓之谷台服V134客戶端  
 MapleStory TMS 142 Client 楓之谷台服V142客戶端  
 MapleStory TMS 152 Client 楓之谷台服V152客戶端  
+
+122是BigBang大改前最後一版
